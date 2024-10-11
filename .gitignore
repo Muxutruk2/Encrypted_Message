@@ -1,7 +1,6 @@
 *.pem
 __pycache__
-server/*.pem
-client/*.pem
-server/allowed_keys.txt
+allowed_keys.txt
+Main_exe
 .venv
 
